@@ -1,0 +1,4 @@
+repository "2D Top Down Pixel Combat@wulanda@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

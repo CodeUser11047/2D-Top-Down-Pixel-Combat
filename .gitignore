@@ -1,0 +1,12 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Pp]akages/
+[Ww]ebBuild
+[Ww]indowBuild
+Assets/AssetStoreTools*
+obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+WebBuild/index.html
